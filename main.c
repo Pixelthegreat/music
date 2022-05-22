@@ -127,7 +127,6 @@ int main(int argc, char *argv[]) {
 	
 	/* music player */
 	player = music_player_new();
-	music_player_load_from_file(MUSIC_PLAYER(player), "/home/elliot/Music/showbiz/Track_11.wav.mp3");
 	gtk_box_pack_start(GTK_BOX(vbox), player, 0, 1, 0);
 	
 	/* show widgets */

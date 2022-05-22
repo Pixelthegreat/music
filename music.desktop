@@ -5,5 +5,5 @@ StartupWMClass=music
 Comment=A simple music player
 Icon=media-playback-start
 Type=Application
-Categories=Sound;Video;Music;Application
+Categories=Sound & Video;Video;Music;Application
 Terminal=false
