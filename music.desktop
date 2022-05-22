@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Music
+Exec=music
+StartupWMClass=music
+Comment=A simple music player
+Icon=media-playback-start
+Type=Application
+Categories=Sound;Video;Music;Application
+Terminal=false
